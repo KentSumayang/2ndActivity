@@ -12,6 +12,9 @@ package activityjava;
 public class ActivityJava {
 
     public static void main(String[] args) {
+        String myName="Ignacio Rosales Yurag";
         System.out.println("I am Kent James Sumayang");
+        System.out.println("My name is: "+ myName + " the groupmate of Sumayang KJ.");
+
     }
 }
