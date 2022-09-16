@@ -17,8 +17,11 @@ public class display {
         multiplication mul = new multiplication();
         division div = new division();
         add.result(fnum, snum);
+        System.out.println("\n");
         sub.result(fnum, snum);
+        System.out.println("\n");
         mul.result(fnum, snum);
+        System.out.println("\n");
         div.result(fnum, snum);
 
     }
