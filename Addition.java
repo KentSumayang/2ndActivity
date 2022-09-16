@@ -4,4 +4,3 @@ public class addition extends display {
            System.out.print("The total addition of two numbers: " + total);
        }
    }
-   
